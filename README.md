@@ -1,3 +1,5 @@
+![logo](https://github.com/as-amaan-109/as-amaan-109-1/blob/main/1704260002910.jpeg)
+
 <h1 align="center">Hi 👋, I'm Amaan Syed</h1>
 <h3 align="center">Front-End Developer & UI/UX Designer | Passionate about creating intuitive and visually appealing web interfaces | Figma enthusiast | Bringing ideas to life wit</h3>
 
