@@ -54,4 +54,4 @@
 
 <img align="center" width="full" src= "https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=as-amaan-109&" alt="as-amaan-109" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=as-amaan-109&" alt="as-amaan-109" /></p>
