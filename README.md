@@ -1,4 +1,4 @@
-![logo](https://github.com/as-amaan-109/as-amaan-109-1/blob/main/V2.mp4)
+![logo](V2.mp4)
 
 
 <h1 align="center">Hi 👋, I'm Amaan Syed</h1>
