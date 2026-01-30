@@ -1,4 +1,4 @@
-![logo](./Public/V2.mp4)
+![logo](./Public/1704260002910.jpeg)
 <img align="center" width="full" src= "https://share.google/dT9iwcOBAroctnOYZ">
 
 <h1 align="center">Hi 👋, I'm Amaan Syed</h1>
