@@ -1,5 +1,4 @@
 ![logo](./Public/1704260002910.jpeg)
-<img align="center" width="full" src= "https://share.google/dT9iwcOBAroctnOYZ">
 
 <h1 align="center">Hi 👋, I'm Amaan Syed</h1>
 <h3 align="center">Full Stack Developer & UI/UX Designer | Passionate about creating intuitive and visually appealing web interfaces | Figma enthusiast | Bringing ideas to life wit</h3>
@@ -13,6 +12,8 @@
 - 📫 How to reach me **official.amaansyedateeq@gmail.com**
 
 - ⚡ Fun fact **Did you know the first website ever created by Tim Berners-Lee in 1991 was just plain text? We've come a long way, and now I get to combine code and creativity to make the web beautiful and user-friendly!**
+
+<img align="center" width="full" src= "https://share.google/dT9iwcOBAroctnOYZ">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
