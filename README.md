@@ -1,4 +1,5 @@
-![logo](./Public/1704260002910.jpeg)
+<img align="right" width="400" src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png">
+
 
 <h1 align="center">Hi 👋, I'm Amaan Syed</h1>
 <h3 align="center">Full Stack Developer & UI/UX Designer | Passionate about creating intuitive and visually appealing web interfaces | Figma enthusiast | Bringing ideas to life wit</h3>
